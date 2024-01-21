@@ -2,6 +2,6 @@
 int main(){
     int s[100];
     scanf("%[^\n]%*c " , &s);
-    printf("");
+    printf("%s" , s);
     return 0;
 }
